@@ -1,0 +1,36 @@
+{
+  "name": "Map",
+  "servePort": 34873,
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$ignoreUnknownInstances": true,
+      "$path": "src/Map/ServerScriptService"
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$ignoreUnknownInstances": true,
+      "$path": "src/Map/ServerStorage"
+    },
+    "StarterGui": {
+      "$className": "StarterGui",
+      "$ignoreUnknownInstances": true,
+      "$path": "src/Map/StarterGui"
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$ignoreUnknownInstances": true,
+        "$path": "src/Map/StarterPlayer/StarterPlayerScripts"
+      },
+      "$ignoreUnknownInstances": true
+    },
+    "Workspace": {
+      "$className": "Workspace",
+      "$ignoreUnknownInstances": true,
+      "$path": "src/Map/Workspace"
+    }
+  }
+}
