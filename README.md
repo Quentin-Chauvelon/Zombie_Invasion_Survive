@@ -32,7 +32,7 @@ Waves have a rising difficulty with more and more ennemies getting stronger and 
 
 The game can be played only or with other players thanks to a cross-server party system.
 
-The game has a low poly/cartoony visual style which is pretty appealing (with bright colors and simple geometry) while improving performance (less polygones à afficher). 
+The game has a low poly/cartoony visual style which is pretty appealing (with bright colors and simple geometry) while improving performance (less polygones to render). 
 
 
 # Status
