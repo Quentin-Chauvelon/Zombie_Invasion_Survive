@@ -46,7 +46,6 @@ I worked on this as a side project for about 3 months. I learnt Lua by myself by
 
 As a solo developer on the project, I had to work on all aspects of the game: coding, UI designing, 3D modeling, testing, fixing bugs... which allowed me to learn and improve a lot.
 
-Since then, I have started working on a new project in C# that you can find [here](https://github.com/Quentin-Chauvelon/3D-Ball-Maze)
 I then worked on another project in Lua which you can find [here](https://github.com/Quentin-Chauvelon/Social_Media_Simulator) (I think this one is better both in terms of quality of code and results).
 
 
