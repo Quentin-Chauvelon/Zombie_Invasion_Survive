@@ -19,7 +19,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=2C2D72&labelColor=grey)
 ![Lua](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat&logo=roblox-studio&logoColor=00A2FF&labelColor=grey)
 
-Source code of [Zombie Invasion: Survive](https://www.roblox.com/games/9574923822).
+Code source du jeu [Zombie Invasion: Survive](https://www.roblox.com/games/9574923822).
 
 Zombie Invasion: Survive est un jeu de survie sur Roblox.
 
